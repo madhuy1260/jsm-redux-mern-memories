@@ -1,0 +1,5 @@
+mongo : User : password : 5NNxbJHLgkrmICqs
+
+npm install body-parser cors express mongoose nodemon
+
+used material ui core makestyles for css styling in frontend
